@@ -1,6 +1,6 @@
 # toolkitten
 
-desc: 🔐 Graphical security suite for learning purposes
+desc: 🔐 CLI security util for learning purposes
 
 ### Roadmap:
 - [x] Play around with tkinter
